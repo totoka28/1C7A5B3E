@@ -47,4 +47,6 @@ styles/
 
 ---
 
-✍️ *Ez egy minimalista példa — tökéletes alap saját projektekhez, navigációhoz vagy UI prototípusokhoz.*
+* Felhasznált Chat Gpt promtok:
+  - csinálj 3 egybefügő nextjs oldalt
+  - csinálj egy rövid md dokumentáciot
